@@ -1,0 +1,32 @@
+[
+  {
+    "href": "index.html#section",
+    "title": "mybook",
+    "section": "0.1 —",
+    "text": ""
+  },
+  {
+    "href": "index.html#preface",
+    "title": "mybook",
+    "section": "Preface",
+    "text": ""
+  },
+  {
+    "href": "intro.html",
+    "title": "2  —",
+    "section": "",
+    "text": "3 Introduction"
+  },
+  {
+    "href": "summary.html",
+    "title": "3  —",
+    "section": "",
+    "text": "4 Summary"
+  },
+  {
+    "href": "references.html",
+    "title": "4  —",
+    "section": "",
+    "text": "References"
+  }
+]

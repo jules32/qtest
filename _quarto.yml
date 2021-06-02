@@ -1,0 +1,23 @@
+project:
+  type: book
+
+book:
+  title: "mybook"
+  author: "Jane Doe"
+  date: "6/2/2021"
+  chapters:
+    - index.md
+    - earthdata_login.md
+    - earthdata_login_test.ipynb
+    - references.md
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: report
+  epub:
+    cover-image: cover.png
+

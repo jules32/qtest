@@ -2,13 +2,23 @@ project:
   type: book
 
 book:
-  title: "mybook"
-  author: "Jane Doe"
+  title: "Cloud for Earth Science"
+  author: "NASA Openscapes Community"
   date: "6/2/2021"
   chapters:
     - index.md
-    - earthdata_login.md
-    - earthdata_login_test.ipynb
+# part: Getting Started
+    - /getting_started/earthdata_login.md
+    - /getting_started/earthdata_login_test.md
+    - /getting_started/authentication.md
+    - /getting_started/netrc_file.md
+    - /getting_started/inline_authentication.md
+# part: Backgound
+#   - cloud_optimized_data_formats.md
+# part: NASA Cloud Data Discovery
+#   - /discovery/discovery.md
+    - /discovery/Navigate_CMR_STAC.ipynb  
+    - /access/access.md
     - references.md
 
 bibliography: references.bib

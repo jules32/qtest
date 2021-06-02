@@ -1,5 +1,5 @@
 
-Clone jules32/qtest repo
+Clone jules32/qtest repo (I first create repo on github.com and clone using RStudio's Git pane)
 
 ```
 quarto create-project mybook --type book

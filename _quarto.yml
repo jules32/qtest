@@ -4,7 +4,18 @@ project:
 book:
   title: "Cloud for Earth Science"
   author: "NASA Openscapes Community"
+  site-url: https://jules32.github.io/qtest
+  repo-url: https://github.com/jules32/qtest
   date: "6/2/2021"
+  page-navigation: true
+  sidebar:
+    style: "docked"
+    background: light
+    search: true
+    collapse-level: 2
+    tools:
+      - icon: github
+        href: https://github.com/jules32/qtest
   chapters:
     - index.md
 # part: Getting Started

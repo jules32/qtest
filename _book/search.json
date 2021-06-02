@@ -1,15 +1,9 @@
 [
   {
-    "href": "index.html#section",
-    "title": "Cloud for Earth Science",
-    "section": "0.1 —",
-    "text": ""
-  },
-  {
     "href": "index.html#preface",
     "title": "Cloud for Earth Science",
     "section": "Preface",
-    "text": ""
+    "text": "Some interesting background"
   },
   {
     "href": "getting_started/earthdata_login.html",
@@ -49,7 +43,7 @@
   },
   {
     "href": "references.html",
-    "title": "8  —",
+    "title": "7  —",
     "section": "",
     "text": "References"
   }
